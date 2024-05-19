@@ -7,7 +7,7 @@ int main() {
     // 1) El contenido del puntero 
     std::cout << "Contenido del puntero (valor de la variable): " << *puntero << std::endl;
 
-    // 2) La dirección de memoria 
+    // 2) La dirección de memoria del puntero
     std::cout << "Direccion de memoria almacenada por el puntero: " << puntero << std::endl;
 
     // 3) La dirección de memoria de la variable
